@@ -1,4 +1,6 @@
 Professionally, I work on Continuous Maintenance and Continuous Improvement on our CI/CD pipeline.
+
+I try to allow time to contribute to Jenkins in any way that I can.
 <!--
 **jonbrohauge/jonbrohauge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
